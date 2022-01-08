@@ -52,7 +52,7 @@ while index<l:
                 print("wrong😔😔")
                 break
     elif user_input_1=="no":
-        user_input_2=int(input("enter answer"))
+        user_input_2=int(input("enter answer:-"))
         if solution[index]==user_input_2:
             print("right👏👏👏")
             print()
